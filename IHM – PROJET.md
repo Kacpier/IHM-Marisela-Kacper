@@ -12,6 +12,13 @@ Présentation TECHNOLOGIE:
     Les acteurs du marché;
     Les outils associés à la technologie;
     Les principales références bibliographiques associées;
+        https://github.com/emberjs/ember.js
+        https://emberjs.com/ —- Documentación oficial
+        https://en.wikipedia.org/wiki/Ember.js
+        https://guides.emberjs.com/release/ —- guías 
+        https://www.geeksforgeeks.org/javascript/ember-js-introduction/ 
+        
+
     Les bases de la technologie :
     Au travers d'un exemple de type Helloworld tiré de votre projet IHM qui servira de base à la rédaction d'un tutoriel en ligne accessible à tous vos camarades;
     Les logiciels et librairies à installer.
