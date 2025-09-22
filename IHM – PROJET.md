@@ -8,8 +8,10 @@ Présentation TECHNOLOGIE:
 
 
     La cible applicative de la technologie choisie (mobile, web, etc.);
+        Bien qu'il soit considéré comme un framework pour les sites web, Ember.js peut également être utilisé pour développer des applications de bureau et mobiles. L'exemple le plus marquant d'une application de bureau utilisant Ember est Apple Music.
     Les technologies concurrentes avec avantages et inconvénients;
     Les acteurs du marché;
+        Il est actuellement utilisé sur de nombreux sites web tels que Square, Discourse, Groupon, LinkedIn, Live Nation, Twitch et Chipotle. 
     Les outils associés à la technologie;
     Les principales références bibliographiques associées;
         https://github.com/emberjs/ember.js
@@ -17,7 +19,7 @@ Présentation TECHNOLOGIE:
         https://en.wikipedia.org/wiki/Ember.js
         https://guides.emberjs.com/release/ —- guías 
         https://www.geeksforgeeks.org/javascript/ember-js-introduction/ 
-        
+
 
     Les bases de la technologie :
     Au travers d'un exemple de type Helloworld tiré de votre projet IHM qui servira de base à la rédaction d'un tutoriel en ligne accessible à tous vos camarades;
@@ -40,4 +42,4 @@ Qu'est-ce que c'est Ember?
 
 ->  framework open-source JavaScript tourné vers les applications web
 -> architecture de type MVC
--> 
+-> est l'un des frameworks d'applications frontend qui connaît la plus forte croissance et le plus grand succès au niveau mondial.
