@@ -15,10 +15,16 @@ Présentation TECHNOLOGIE:
     Les outils associés à la technologie;
     Les principales références bibliographiques associées;
         https://github.com/emberjs/ember.js
-        https://emberjs.com/ —- Documentación oficial
+        https://emberjs.com/ —- Documentation officiel
         https://en.wikipedia.org/wiki/Ember.js
         https://guides.emberjs.com/release/ —- guías 
         https://www.geeksforgeeks.org/javascript/ember-js-introduction/ 
+
+
+        https://github.com/discourse/discourse/tree/main --- 
+    
+
+
 
 
     Les bases de la technologie :
@@ -43,3 +49,7 @@ Qu'est-ce que c'est Ember?
 ->  framework open-source JavaScript tourné vers les applications web
 -> architecture de type MVC
 -> est l'un des frameworks d'applications frontend qui connaît la plus forte croissance et le plus grand succès au niveau mondial.
+
+
+
+- 
