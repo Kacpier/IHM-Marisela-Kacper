@@ -9,9 +9,28 @@ Présentation TECHNOLOGIE:
 
     La cible applicative de la technologie choisie (mobile, web, etc.);
         Bien qu'il soit considéré comme un framework pour les sites web, Ember.js peut également être utilisé pour développer des applications de bureau et mobiles. L'exemple le plus marquant d'une application de bureau utilisant Ember est Apple Music.
+
     Les technologies concurrentes avec avantages et inconvénients;
+    Angular et React 
+
+    Ember.js 
+        Avantages :  
+            Extrême cohérence et configuration facile.
+            Routeur intégré.
+            Outil de débogage propre (Ember Inspector).
+            Options de développement Full Stack.
+            Liaison bidirectionnelle des données.
+        
+        Inconvénients :  
+            La courbe d'apprentissage est raide. Ember n'est pas facile pour les débutants.
+            Impossible de réutiliser les composants lorsque l'on travaille sur le framework Ember Js.
+            L'un des frameworks les plus rigides et les plus lourds.
+            Ne convient pas aux petits projets.
+            Il existe un grand nombre de contenus et d'exemples liés à Ember qui sont obsolètes.
+
     Les acteurs du marché;
         Il est actuellement utilisé sur de nombreux sites web tels que Square, Discourse, Groupon, LinkedIn, Live Nation, Twitch et Chipotle. 
+
     Les outils associés à la technologie;
     Les principales références bibliographiques associées;
         https://github.com/emberjs/ember.js
@@ -19,6 +38,7 @@ Présentation TECHNOLOGIE:
         https://en.wikipedia.org/wiki/Ember.js
         https://guides.emberjs.com/release/ —- guías 
         https://www.geeksforgeeks.org/javascript/ember-js-introduction/ 
+        https://www.simform.com/blog/react-vs-ember/ -- technologies concurrentes
 
 
         https://github.com/discourse/discourse/tree/main --- 
