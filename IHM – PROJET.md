@@ -12,6 +12,9 @@ Présentation TECHNOLOGIE:
 
     Les technologies concurrentes avec avantages et inconvénients;
     Angular et React 
+    React et Ember sont deux technologies concurrentes pour le développement d’applications web. React, plus flexible et léger, est une librairie orientée interface utilisateur, idéale pour des projets rapides ou de taille moyenne. Elle offre de hautes performances et une vaste communauté, mais nécessite de combiner plusieurs outils externes. Ember, au contraire, est un framework complet basé sur la convention, plus structuré et stable, bien adapté aux grandes applications d’entreprise. Sa courbe d’apprentissage est plus difficile, mais il propose un environnement cohérent et prêt à l’emploi.
+
+    Angular et Ember.js sont deux frameworks destinés au développement d’applications web monopage. Angular, soutenu par Google, est complet et structuré, idéal pour les projets complexes et de grande envergure grâce à ses nombreux outils intégrés et sa forte modularité, mais il exige une courbe d’apprentissage élevée. Ember.js, de son côté, repose sur le principe de “convention over configuration” : il offre un environnement cohérent et prêt à l’emploi, particulièrement adapté aux applications à long cycle de vie, bien que moins flexible et moins populaire qu’Angular.
 
     Ember.js 
         Avantages :  
