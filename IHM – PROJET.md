@@ -137,6 +137,16 @@ SCENARIOS D'UTILISATION:
 
 CAHIER DE CHARGES:
 
+
+-> OBJECTIFS PRINCIPAUX
+
+L'objectif principal est de mettre en place une application qui centralise de différentes fonctionnalités utilisées par les professionnels. Elle doit aider les utilisateurs a atteindre leurs propres objectifs (que ce soit en entreprise ou non), de forger des connections avec  d'autres boites ou groupes et offrir des fonctionnalités souvent rencontrés dans les boites comme kanban, calendriers, votes etc....
+
+-> ATTEINTE DES OBJECTIFS
+-> LIVRABLES ATTENDUS
+
+
+
 presentation generale: 
 
 Notre projet est un reseau social professionnel développé avec de la technologie ember. De par cette technologie, ce réseau prend forme d'une application web disponible sur les mobiles ainsi que sur des ordinateurs. Le publique visé est composé de professionnels de toutes sortes de domaines différents: du domaine agricole au sciences, même pour des étudiants en recherche de stage ou en alternance.
