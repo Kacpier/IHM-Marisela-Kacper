@@ -118,3 +118,44 @@ Fastboot: un add-on CLI qui permet de faire marcher les applications dans Node.j
 Liquid Fire: fournit le support des animations pour les applications Ember. 
 
 
+
+SCENARIOS D'UTILISATION:
+
+1/ On cherche la page (ex google) puis on se connecte avec le bouton login
+
+2/ On check la liste des connaissance, ceux qu'on suivent et la page d'acceuil
+
+3/ On click sur le "groupe d'amis", on cherche une personne spécifique. On click sur "envoyer un message", on envoie le message et une image en piece jointe. 
+
+4/ Modification du profil: changer de photo, actualiser la description et l'état (étudiant => employé dans une entreprise)
+
+5/ Cherchez de nouveaux amis, collègues, boites, centres d'intérêt etc... Une fois trouvé des choses intéressantes on se connecte la dessus
+
+6/ Participation a des evenements => un groupe qu'on suit, ou autre, planifie un evenement. La personne s'inscrit et participe à des activités.
+
+
+
+CAHIER DE CHARGES:
+
+presentation generale: 
+
+Notre projet est un reseau social professionnel développé avec de la technologie ember. De par cette technologie, ce réseau prend forme d'une application web disponible sur les mobiles ainsi que sur des ordinateurs. Le publique visé est composé de professionnels de toutes sortes de domaines différents: du domaine agricole au sciences, même pour des étudiants en recherche de stage ou en alternance.
+
+fonctionnalités:
+
+La fonctionnalité de base est la recherche de connections, d'amis, de groupes etc... dans le domaine principal de notre activité (ou non, c'est juste plus simple de chercher la dedans). Nous pouvons créer notre profil.
+Nous pouvons se présenter (comme dans un cv), préciser notre domaine d'activité ainsi que choisir des domaines supplémentaires qui nous intéressent.
+Les groupes/entreprises peuvent organiser des évenements (de différents types) auxquels des individus peuvent participer. 
+Chaque utilisateur a à sa disposition une messagerie par laquelle il peut communiquer avec d'autres utilisateurs ou groupe/entités.  
+Une fonctionnalité de type kanban/calendrier ou les utilisateurs peuvent, individuellemnt ou en groupe, se dédier des taches, des objectifs etc....
+Les utilisateurs peuvent faire des posts de types différents: des posts texte (ex twitter), des annonces, des posts interactionnels (comme des votes) etc...
+"A la une" personnalisée pour chaque utilisateur selon ses préferences, son domaine d'activité et son réseau.
+
+plus en détail
+
+1/ Recherche de connections: représentation de connaissances des utilisateurs en schémas. La recherche de connection est facilitée par l'algorithme qui rapproche les entités selon leurs préferences, domaine d'activité, appartenance etc. 
+
+2/Profil: 
+
+
+
