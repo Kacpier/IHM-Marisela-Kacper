@@ -143,6 +143,9 @@ CAHIER DE CHARGES:
 L'objectif principal est de mettre en place une application qui centralise de différentes fonctionnalités utilisées par les professionnels. Elle doit aider les utilisateurs a atteindre leurs propres objectifs (que ce soit en entreprise ou non), de forger des connections avec  d'autres boites ou groupes et offrir des fonctionnalités souvent rencontrés dans les boites comme kanban, calendriers, votes etc....
 
 -> ATTEINTE DES OBJECTIFS
+
+
+
 -> LIVRABLES ATTENDUS
 
 
